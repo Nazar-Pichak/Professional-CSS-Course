@@ -1,4 +1,4 @@
-# Professional CSS Course -- [See course here](https://www.udemy.com/course/professional-css/?referralCode=4C3C08E82629E6B15752)
+# Professional CSS Course -- [See course here](https://bytegrad.com/courses/professional-css)
 
 **You can find the final code for each video in the project folders here**. Use that if you get stuck. There is also a bugs file, a slides file and a readme file (you're reading it right now).
 
@@ -16,4 +16,4 @@ I'm online throughout most of the day and will help you as quickly as I can! In 
 
 ## How can I contact you?
 
-Please use the Udemy Q&A section to ask questions.
+Please open an issue in this GitHub repo or contact me on the private Discord (see 'resources' below video to find link). You can also contact me at support@bytegrad.com.
