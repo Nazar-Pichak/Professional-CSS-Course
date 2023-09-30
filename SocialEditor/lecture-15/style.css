@@ -547,6 +547,7 @@ button {
         height: initial;
         margin-bottom: 15px;
         align-self: start;
+        animation: fade-in-from-top 0.5s;
     }
 
     .tool:last-child {
@@ -572,4 +573,7 @@ button {
     .canvas {
         height: 400px;
     }
+
+    .tools {
+        animation: fade-in-from-top 0.5s;
 }
